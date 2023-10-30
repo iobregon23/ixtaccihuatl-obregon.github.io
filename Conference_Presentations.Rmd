@@ -3,24 +3,27 @@ title: "Conference Presentation"
 output: html_document
 ---
 
-Li-Fraumeni Syndrome Association Symposium 							         Oct 2022
-The prevalence of autoimmune disorders in individuals with and without Li-Fraumeni syndrome
-Podium Presentation
-Hormone Receptor Status of Bilateral Breast Cancer in Individuals with Li-Fraumeni Syndrome
-Poster Presentation
-NIH Postbaccalaureate Poster Day 									         Apr 2022
-Hormone Receptor Status of Bilateral Breast Cancer in Individuals with Li-Fraumeni Syndrome
-Virtual Poster Presentation
-American Society of Human Genetics								         Oct 2021
-Prevalence of autoimmune diseases in Li-Fraumeni Syndrome 
-Virtual Poster 
- 
-Joint Mathematics Meeting										         Jan 2020
-Minimize the number of drug-resistant gonorrhea cases through cost-effective treatment plans 
-Podium and Poster Presentation
-Texas Undergraduate Math Conference	s							         Oct 2019
-Minimize the number of drug-resistant gonorrhea cases through cost-effective treatment plans 
-Podium Presentation
-Mathematical Association of America – Texas Sectional						     March 2019
-Modeling the Interaction between Two Phytoplankton Species
-Podium Presentation   
+### Li-Fraumeni Syndrome Association Symposium - October 2022					        
+The prevalence of autoimmune disorders in individuals with and without Li-Fraumeni syndrome (Podium Presentation)
+
+Hormone Receptor Status of Bilateral Breast Cancer in Individuals with Li-Fraumeni Syndrome (Poster Presentation)
+
+### NIH Postbaccalaureate Poster Day - April 2022				         
+
+Hormone Receptor Status of Bilateral Breast Cancer in Individuals with Li-Fraumeni Syndrome (Virtual Poster Presentation)
+
+### American Society of Human Genetics - October 2021
+
+Prevalence of autoimmune diseases in Li-Fraumeni Syndrome (Virtual Poster)
+
+### Joint Mathematics Meeting	- Janurary 2021
+
+Minimize the number of drug-resistant gonorrhea cases through cost-effective treatment plans (Podium and Poster Presentation)
+
+### Texas Undergraduate Math Conference - October 2019
+
+Minimize the number of drug-resistant gonorrhea cases through cost-effective treatment plans (Podium Presentation)
+
+### Mathematical Association of America: Texas Sectional	- March 2019
+
+Modeling the Interaction between Two Phytoplankton Species (Podium Presentation)  
