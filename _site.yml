@@ -1,0 +1,20 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Academic Experience"
+      href: Academic_Experience.html
+    - text: "Professional Experience"
+      href: Professional_Experience.html
+    - text: "Conference Presentation"
+      href: Conference_Presentations.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<ixtaccihuatl.obregon@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/iobregon23/
+output:
+  html_document:
+    theme: cerulean

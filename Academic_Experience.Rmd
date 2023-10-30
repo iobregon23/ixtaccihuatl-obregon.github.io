@@ -1,0 +1,26 @@
+---
+title: "Academic Experience"
+output: html_document
+---
+
+## Master of Science 
+- Biostatistics, Theory and Methods 
+- Columbia Mailman School of Public Health, New York, NY 
+- September 2023 - In Progress
+
+## Non-degree Coursework
+- Basic Principles of Immunology and Hypersensitivity 
+- Cancer Immunology 
+- Foundation for Advanced Education in the Sciences, NIH, Bethesda, MD	
+- Sept 2020 – Dec 2020
+
+## Bachlehor of Science
+- Biochemistry and Mathematics 
+- The University of the Incarnate Word, San Antonio, TX
+- August 2016 - May 2020
+
+
+
+
+
+
