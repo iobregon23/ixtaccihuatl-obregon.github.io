@@ -1,26 +1,30 @@
 ---
 title: "Professional Experience"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
 ---
 
 
 # Research
 ### National Cancer Institute
-- NCI Cancer Research Training Fellow from November 2021 to November 2022											
-- NIH Undergraduate Scholarship Program (UGSP) Scholar from August 2020 to Oct 2021
+**NCI Cancer Research Training Fellow:** November 2021 to November 2022										
+**NIH Undergraduate Scholarship Program (UGSP) Scholar:** August 2020 to Oct 2021
 
-Department: Division of Cancer Epidemiology and Genetics, Clinical Genetics Branch 
+**Department:** Division of Cancer Epidemiology and Genetics, Clinical Genetics Branch 
 
-Principal Investigators: Dr. Sharon Savage and Dr. Payal Khincha
+**Principal Investigators:** Dr. Sharon Savage and Dr. Payal Khincha
 
-Hormone Receptor Status of Bilateral Breast Cancer in Individuals with Li-Fraumeni Syndrome
+**Hormone Receptor Status of Bilateral Breast Cancer in Individuals with Li-Fraumeni Syndrome**
 
 - First authored a manuscript describing LFS Bilateral Breast Cancer and Hormone Receptors 
 - Collected data from multiple sources, confirmed hormone and cancer diagnosis,
 and refined inclusion criteria for the study. 
 - Described in detail the hormone receptor status in LFS women with bilateral breast cancer. 
 
-Prevalence of autoimmune disease in Li-Fraumeni Syndrome 
+**Prevalence of autoimmune disease in Li-Fraumeni Syndrome**
 
 - First authored a Letter to the Editor of Familial Cancer Journal
 - Collected questionnaire data in collaboration with Westat and refined inclusion criteria for the study.  
@@ -29,9 +33,9 @@ Prevalence of autoimmune disease in Li-Fraumeni Syndrome
 
 ### Mathematical and Theoretical Biology Institute at Arizona State University
 
-Principal Investigators: Drs. Aditi Ghosh, Christopher Kribs, Leon Arriola, and Bajoun Song 
+**Principal Investigators:** Drs. Aditi Ghosh, Christopher Kribs, Leon Arriola, and Bajoun Song 
 
-Minimization of drug-resistant gonorrhea cases through cost-effective treatment plans
+**Minimization of drug-resistant gonorrhea cases through cost-effective treatment plans**
 
 -	Participated in several graduate-like statistical and computer programing classes.
 -	Composed a novel study idea for mentor evaluations.
@@ -40,7 +44,7 @@ Minimization of drug-resistant gonorrhea cases through cost-effective treatment 
 
 # Clinical Shadowing
 
-Location: National Cancer Institute | Division of Cancer Epidemiology and Genetics | Clinical Genetics Branch
+National Cancer Institute | Division of Cancer Epidemiology and Genetics | Clinical Genetics Branch
 
 Pediatric Oncology Branch Student Shadowing Program (~2.5 hours per week). Learned about clinical trials and care provided by the Pediatric Oncology Branch (virtual). 	
 

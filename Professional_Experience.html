@@ -16,7 +16,7 @@
 <script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -221,6 +224,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -228,6 +294,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -260,6 +336,9 @@ $(document).ready(function () {
   <a href="Conference_Presentations.html">Conference Presentation</a>
 </li>
 <li>
+  <a href="Data_Science.html">Data Science</a>
+</li>
+<li>
   <a href="mailto:&lt;ixtaccihuatl.obregon@gmail.com&gt;">
     <span class="fa fa-envelope fa-lg"></span>
      
@@ -289,18 +368,16 @@ $(document).ready(function () {
 <h1>Research</h1>
 <div id="national-cancer-institute" class="section level3">
 <h3>National Cancer Institute</h3>
-<ul>
-<li>NCI Cancer Research Training Fellow from November 2021 to November
-2022<br />
-</li>
-<li>NIH Undergraduate Scholarship Program (UGSP) Scholar from August
-2020 to Oct 2021</li>
-</ul>
-<p>Department: Division of Cancer Epidemiology and Genetics, Clinical
-Genetics Branch</p>
-<p>Principal Investigators: Dr. Sharon Savage and Dr. Payal Khincha</p>
-<p>Hormone Receptor Status of Bilateral Breast Cancer in Individuals
-with Li-Fraumeni Syndrome</p>
+<p><strong>NCI Cancer Research Training Fellow:</strong> November 2021
+to November 2022<br />
+<strong>NIH Undergraduate Scholarship Program (UGSP) Scholar:</strong>
+August 2020 to Oct 2021</p>
+<p><strong>Department:</strong> Division of Cancer Epidemiology and
+Genetics, Clinical Genetics Branch</p>
+<p><strong>Principal Investigators:</strong> Dr. Sharon Savage and
+Dr. Payal Khincha</p>
+<p><strong>Hormone Receptor Status of Bilateral Breast Cancer in
+Individuals with Li-Fraumeni Syndrome</strong></p>
 <ul>
 <li>First authored a manuscript describing LFS Bilateral Breast Cancer
 and Hormone Receptors</li>
@@ -309,7 +386,8 @@ diagnosis, and refined inclusion criteria for the study.</li>
 <li>Described in detail the hormone receptor status in LFS women with
 bilateral breast cancer.</li>
 </ul>
-<p>Prevalence of autoimmune disease in Li-Fraumeni Syndrome</p>
+<p><strong>Prevalence of autoimmune disease in Li-Fraumeni
+Syndrome</strong></p>
 <ul>
 <li>First authored a Letter to the Editor of Familial Cancer
 Journal</li>
@@ -326,10 +404,10 @@ id="mathematical-and-theoretical-biology-institute-at-arizona-state-university"
 class="section level3">
 <h3>Mathematical and Theoretical Biology Institute at Arizona State
 University</h3>
-<p>Principal Investigators: Drs. Aditi Ghosh, Christopher Kribs, Leon
-Arriola, and Bajoun Song</p>
-<p>Minimization of drug-resistant gonorrhea cases through cost-effective
-treatment plans</p>
+<p><strong>Principal Investigators:</strong> Drs. Aditi Ghosh,
+Christopher Kribs, Leon Arriola, and Bajoun Song</p>
+<p><strong>Minimization of drug-resistant gonorrhea cases through
+cost-effective treatment plans</strong></p>
 <ul>
 <li>Participated in several graduate-like statistical and computer
 programing classes.</li>
@@ -343,8 +421,8 @@ cases of gonorrhea using R, MATLAB, Mathematica, and Maple.</li>
 </div>
 <div id="clinical-shadowing" class="section level1">
 <h1>Clinical Shadowing</h1>
-<p>Location: National Cancer Institute | Division of Cancer Epidemiology
-and Genetics | Clinical Genetics Branch</p>
+<p>National Cancer Institute | Division of Cancer Epidemiology and
+Genetics | Clinical Genetics Branch</p>
 <p>Pediatric Oncology Branch Student Shadowing Program (~2.5 hours per
 week). Learned about clinical trials and care provided by the Pediatric
 Oncology Branch (virtual).</p>
@@ -356,6 +434,8 @@ Physician and Genetic Counselors (virtual).</p>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -388,6 +468,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

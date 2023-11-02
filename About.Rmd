@@ -4,21 +4,21 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: cosmo
 ---
 
 ## Introduction
 
-Hello, I'm Ixtaccihuatl Obregon. This is my personal webpage. 
+Hello, I'm Ixtaccihuatl Obregon. This is my personal webpage.![](Profile Picture 2023.jpg){width = 250px}
 
 ## Contact
 
 Feel free to get in touch with me through the following channels:
 
 - Email: ixtaccihuatl.obregon@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/ixtaccihuatl-obregon]
-- GitHub: [Your GitHub Profile]
-- Twitter: [Your Twitter Handle]
+- LinkedIn: https://www.linkedin.com/in/ixtaccihuatl-obregon
+- GitHub: https://github.com/iobregon23
+- Twitter: @Ixta_Obregon
 
 I'm always open to new opportunities and collaborations, so don't hesitate to reach out.
 

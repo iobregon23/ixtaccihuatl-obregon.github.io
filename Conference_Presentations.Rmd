@@ -1,12 +1,17 @@
 ---
 title: "Conference Presentation"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
 ---
 
 ### Li-Fraumeni Syndrome Association Symposium - October 2022					        
 The prevalence of autoimmune disorders in individuals with and without Li-Fraumeni syndrome (Podium Presentation)
+ 
 
-Hormone Receptor Status of Bilateral Breast Cancer in Individuals with Li-Fraumeni Syndrome (Poster Presentation)
+Hormone Receptor Status of Bilateral Breast Cancer in Individuals with Li-Fraumeni Syndrome (Poster Presentation)![LFSA](LFSA.jpg){width = 250px}
 
 ### NIH Postbaccalaureate Poster Day - April 2022				         
 
@@ -18,7 +23,7 @@ Prevalence of autoimmune diseases in Li-Fraumeni Syndrome (Virtual Poster)
 
 ### Joint Mathematics Meeting	- Janurary 2021
 
-Minimize the number of drug-resistant gonorrhea cases through cost-effective treatment plans (Podium and Poster Presentation)
+Minimize the number of drug-resistant gonorrhea cases through cost-effective treatment plans (Podium and Poster Presentation) ![JMM](JMM.jpg){width = 250px}
 
 ### Texas Undergraduate Math Conference - October 2019
 
@@ -27,3 +32,4 @@ Minimize the number of drug-resistant gonorrhea cases through cost-effective tre
 ### Mathematical Association of America: Texas Sectional	- March 2019
 
 Modeling the Interaction between Two Phytoplankton Species (Podium Presentation)  
+![MAA-Texas](MAA.JPG){width = 250px}

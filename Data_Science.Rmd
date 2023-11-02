@@ -1,0 +1,22 @@
+---
+title: "Data Science"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+### Plots
+
+```{r}
+library(tidyverse)
+library(plotly)
+```
+
+```{r}
+noaa = read_csv("Data/nynoaadat.csv") |> 
+  na.omit() |> 
+  filter_all(all_vars(. != 0))
+```
+

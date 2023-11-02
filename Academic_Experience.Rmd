@@ -1,23 +1,60 @@
 ---
 title: "Academic Experience"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
 ---
 
 # Master of Science 
-- Biostatistics, Theory and Methods 
-- Columbia Mailman School of Public Health, New York, NY 
-- September 2023 - In Progress
+**Biostatistics, Theory and Methods | Columbia Mailman School of Public Health, New York, NY | Sept 2023 - In Progress**
 
 # Non-degree Coursework
+**Foundation for Advanced Education in the Sciences, NIH, Bethesda, MD | Sept 2020 – Dec 2020**
+
 - Basic Principles of Immunology and Hypersensitivity 
 - Cancer Immunology 
-- Foundation for Advanced Education in the Sciences, NIH, Bethesda, MD	
-- Sept 2020 – Dec 2020
 
-# Bachlehor of Science
-- Biochemistry and Mathematics 
-- The University of the Incarnate Word, San Antonio, TX
-- August 2016 - May 2020
+# Bachelor of science
+**Biochemistry and Mathematics | The University of the Incarnate Word, San Antonio, TX | August 2016 - May 2020**
+
+**Scholarship and Honors**
+
+- NIH Undergraduate Scholarship Program (UGSP) Scholar, Aug 2019 – Oct 2021
+A $20,000 in scholarship support; summer research training at the NIH; and 1-year paid employment/training opportunity at NIH after graduation.
+
+- San Antonio Mathematical Scholar @ UIW, Jan 2017 – May 2020
+A $5,000 per semester from National Science Foundation; academic and professional
+development; faculty and peer mentorship; conference travel; exposure to research careers.
+
+- Presidential Scholar, University of the Incarnate Word, Aug 2016 – May 2020
+A $12,000 in scholarship support per semester for academic achievement.   
+
+- HEB-funded Top 5% Scholar, University of the Incarnate Word, Aug 2016 – May 2020
+A $2,500 scholarship support per semester to students in the top 5% of their high school class. 
+
+- Endowed Scholar, University of the Incarnate Word, Aug 2016 – May 2020
+Various scholarship support from university donors. 
+
+- Professional Direct Admit Scholar, UIW School of Osteopathic Medicine (UIWSOM), Aug 2016 – May 2018
+A $2,500 in scholarship support per semester to the UIWSOM scholars. 
+
+- Dean’s List, University of the Incarnate Word, Aug 2016 – May 2017
+
+**Organization Involvement**
+
+UIW Honors Program 
+
+- President: Organized and conducted monthly Honors Meeting.(Aug 2019 – May 2020)
+- Peer Mentor:  Assisted new members with transitioning to college.(Aug 2017 – May 2020)
+-	Member: Participated in volunteer events with the honors program.(Aug 2016 – May 2020)
+ 
+UIW Math Club 
+
+- Social Media Coordinator: Managed the social media sites and announcements.(Aug 2019 – May 2020)
+- Member: Participated and organized volunteer events.(Aug 2016 – May 2020)
+
 
 
 
