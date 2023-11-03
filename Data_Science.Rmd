@@ -38,7 +38,8 @@ noaa |>
 ### Chart C
 
 ```{r}
-
+noaa |> 
+  plot_ly(x = ~id, y = ~snow, color = ~tmax, type = "bar", colors = "viridis")
 ```
 
 
