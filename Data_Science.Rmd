@@ -19,4 +19,8 @@ noaa = read_csv("Data/nynoaadat.csv") |>
   na.omit() |> 
   filter_all(all_vars(. != 0))
 ```
+```{r}
+noaa |> 
+  plot_ly(x = ~snow, y = ~snwd, type = "scatter", colors = "viridis")
+```
 
