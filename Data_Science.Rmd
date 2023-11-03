@@ -37,7 +37,7 @@ noaa |>
          month = month(date),
          day = day(date)) |> 
   plot_ly(y = ~prcp, x = ~month, type = "box", color =~tmin, colors = "viridis")
-```
+``` 
 ### Chart C
 
 ```{r}
