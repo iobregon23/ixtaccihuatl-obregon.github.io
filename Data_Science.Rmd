@@ -33,7 +33,10 @@ Column {data-width=350}
 ### Chart B
 ```{r}
 noaa |> 
-  plot_ly(y = ~prcp, type = "box", color =~date, colors = "viridis")
+   mutate(year = year(date),
+         month = month(date),
+         day = day(date)) |> 
+  plot_ly(y = ~prcp, x = ~month, type = "box", color =~tmin, colors = "viridis")
 ```
 ### Chart C
 
